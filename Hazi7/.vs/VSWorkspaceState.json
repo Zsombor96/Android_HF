@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\.idea\\caches",
+    "\\.idea\\codeStyles",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\ro",
+    "\\app\\src\\main\\java\\ro\\sapi",
+    "\\app\\src\\main\\java\\ro\\sapi\\customlistview",
+    "\\app\\src\\main\\java\\ro\\sapi\\customlistview\\model"
+  ],
+  "SelectedNode": "\\.idea",
+  "PreviewInSolutionExplorer": false
+}
